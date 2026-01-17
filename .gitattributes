@@ -1,0 +1,6 @@
+schwimmfan0.png filter=lfs diff=lfs merge=lfs -text
+schwimmfan1.png filter=lfs diff=lfs merge=lfs -text
+schwimmfan2.png filter=lfs diff=lfs merge=lfs -text
+schwimmfan3.png filter=lfs diff=lfs merge=lfs -text
+schwimmfan4.png filter=lfs diff=lfs merge=lfs -text
+schwimmfan5.png filter=lfs diff=lfs merge=lfs -text
